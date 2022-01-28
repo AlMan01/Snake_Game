@@ -1,7 +1,7 @@
 # Snake_Game
 Famous game "Snake" on Qt.
 
-The game is made by students of RAU (Alex Manukyan, Lilia Azatyan).
+The game is made by students of RAU (Alex Manukyan, Lilia Azatyan, Knarik Ordyan).
 
 https://github.com/AlMan01
 
