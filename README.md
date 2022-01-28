@@ -1,11 +1,5 @@
 # Snake_Game
-Famous game "Snake" on Qt.
-
-The game is made by students of RAU (Alex Manukyan, Lilia Azatyan, Knarik Ordyan).
-
-https://github.com/AlMan01
-
-https://github.com/LiliaAzatyan
+An analogue of the famous game "Snake" on Qt.
 
 ![Снимок экрана 2022-01-28 110610](https://user-images.githubusercontent.com/90648958/151502812-e59604d9-b2f3-44de-a126-aa8bc2260364.jpg)
 
